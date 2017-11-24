@@ -10,6 +10,12 @@ namespace EntityFrameworkAula03
     {
         static void Main(string[] args)
         {
+
+            //Aula302.ExecutarExercicio();
+            Aula303.ExecutarExercicio();
+            Console.ReadLine();
+
+
         }
     }
 }
