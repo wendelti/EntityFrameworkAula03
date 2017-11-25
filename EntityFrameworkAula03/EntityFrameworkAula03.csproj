@@ -49,6 +49,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Aula307.cs" />
+    <Compile Include="Aula306.cs" />
+    <Compile Include="Aula305.cs" />
+    <Compile Include="Aula304.cs" />
     <Compile Include="Aula303 .cs" />
     <Compile Include="Aula302.cs" />
     <Compile Include="Program.cs" />

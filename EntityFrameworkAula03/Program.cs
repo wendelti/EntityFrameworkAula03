@@ -12,7 +12,11 @@ namespace EntityFrameworkAula03
         {
 
             //Aula302.ExecutarExercicio();
-            Aula303.ExecutarExercicio();
+            //Aula303.ExecutarExercicio();
+            //Aula304.ExecutarExercicio();
+            //Aula305.ExecutarExercicio();
+            //Aula306.ExecutarExercicio();
+            Aula307.ExecutarExercicio();
             Console.ReadLine();
 
 
